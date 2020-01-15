@@ -5,11 +5,11 @@ layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## This news intrigued me: January 13 - 20, 2020
 
-From this point we should already have:
+Joseph's highlighted articles in sports, music, politics, web dev, and current events:
 
-- [Eleventy](https://11ty.io) with a skeleton site
+- [BigBanonos](https://bigbanonos.blogspot.com) updated some new 2020 song selections
 - A date format filter for Nunjucks based on [Luxon](https://moment.github.io/luxon)
 - A tiny CSS pipeline with PostCSS
 - A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
