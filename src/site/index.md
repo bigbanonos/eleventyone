@@ -17,6 +17,8 @@ Joseph's highlighted articles in sports, music, politics, web dev, and current e
 - [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
 - Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
 
+1/16 9pm doors, 9:30pm show (monthly): life is a vocabaret at **the pun-ch up: a variety show for word lovers**, where a lineup of nyc punderdome champs will fill your night with word games, anagrams, etymological deep-dives, and more. hosted by sam corbin (buzzfeed), tim donnelly (hq trivia), jerzy gwiazdowski (2019 o. henry punniest in show winner), ally spier (reductress), and nikolai vanyo. caveat (les), $10 adv, $12 door. **[>>](https://www.caveat.nyc/event/the-pun-ch-up-11-14-2019-9)**
+
 
 
 ## Post pages
